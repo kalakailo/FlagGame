@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/activity_flag_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/Flags"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:background="@color/mycolor"
+        android:layout_height="match_parent">
+
+
+        <ImageButton
+            android:id="@+id/activity_flag_next"
+            android:src="@drawable/arrow_right"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="right"
+            android:contentDescription="@string/Next"
+            />
+
+        <TextView
+            android:id="@+id/activity_flag_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:layout_width="87dp"
+                android:layout_height="62dp"
+                android:src="@drawable/thumbs26"
+                android:id="@+id/activity_flag_true"/>
+
+            <ImageButton
+                android:layout_width="87dp"
+                android:layout_height="62dp"
+                android:src="@drawable/thumbs27"
+                android:id="@+id/activity_flag_false"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+
+            android:text="Хочеш дізнатись про країну? Тицьни сюди"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/silhouette128"
+            android:id="@+id/activity_flag_find_out"/>
+    </LinearLayout>
+
+
+</LinearLayout>

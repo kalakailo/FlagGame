@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">FlagGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="Flags">Flags</string>
+    <string name="Next">Next</string>
+    <string name="answer_ukraine">
+        Україна — держава і країна у Східній Європі, у південно-західній частині Східноєвропейської рівнини.
+        Площа становить 603 628 км². Найбільша за площею країна з тих, чия територія повністю лежить у Європі,
+        друга  на європейському континенті, якщо враховувати Росію. Межує з Білоруссю на півночі,
+        Польщею, Словаччиною та Угорщиною — на заході, Румунією та Молдовою — на південному заході,
+        Росією на сході і північному сході.На півдні і південному сході омивається Чорним і Азовським морями.
+    </string>
+    <string name="answer_canada">
+       Канад — країна, що займає північну частину Північної Америки та майже половину площі континенту
+        простягаючись від Атлантичного океану на сході до Тихого океану на заході. Це друга за площею країна світу,
+        яка поступається лише Росії. Канада межує зі Сполученими Штатами Америки на півдні та північному-заході
+        та має морські кордони з Францією (о-ви Сен-Пєр і Мікелон) і Гренландією (королівство Данія).
+    </string>
+    <string name="answer_belgium">
+        Це прапор Бельгії?</string>
+    <string name="answer_austria">
+        Це прапор Австрії?</string>
+    <string name="answer_china">
+        Це прапор Китаю?</string>
+    <string name="answer_england">
+        Це прапор Шотландії?</string>
+    <string name="answer_france">
+        Це прапор Білорусі?</string>
+    <string name="answer_germany">
+        Це прапор Німеччини?</string>
+    <string name="answer_sweden">
+        Це прапор Кореї?</string>
+    <string name="answer_brazil">
+        Це прапор Бразилії?</string>
+
+    <string name="question_ukraine">
+        Це прапор України?</string>
+    <string name="question_canada">
+        Це прапор Японії?</string>
+    <string name="question_belgium">
+        Це прапор Бельгії?</string>
+    <string name="question_austria">
+        Це прапор Австрії?</string>
+    <string name="question_china">
+        Це прапор Китаю?</string>
+    <string name="question_england">
+        Це прапор Шотландії?</string>
+    <string name="question_france">
+        Це прапор Білорусі?</string>
+    <string name="question_germany">
+        Це прапор Німеччини?</string>
+    <string name="question_sweden">
+        Це прапор Кореї?</string>
+    <string name="question_brazil">
+        Це прапор Бразилії?</string>
+    <string name="correct_toast">
+        Все вірно,Молодець!!!</string>
+    <string name="incorrect_toast">
+        Невгадав - бо треба було географію вчити а не задротити!
+    </string>
+     <string name="country_belgium">
+         Бельгія</string>
+    <string name="country_austria">
+        Австрія</string>
+    <string name="country_china">
+        Китай</string>
+    <string name="country_england">
+        Англія</string>
+    <string name="country_france">
+        Франція</string>
+    <string name="country_germany">
+        Німеччина</string>
+    <string name="country_sweden">
+        Швеція</string>
+    <string name="country_brazil">
+        Бразилія</string>
+    <string name="country_ukraine">
+        Україна</string>
+    <string name="country_canada">
+        Канада</string>
+
+
+</resources>
